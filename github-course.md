@@ -453,7 +453,7 @@ Les "code reviews" sont essentielles pour maintenir la qualité du code. Lorsqu'
 
 3. Si tout semble correct, tu peux approuver la pull request. Sinon, demande des modifications avant la fusion. Dans ce même exemple, je ne Mergerais pas la pull request car elle est inutile à mon projet
 
-ssssssssssssssssss
+ssssssssssssssssss > photo verte
 
 ---
 
