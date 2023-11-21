@@ -49,26 +49,31 @@ L'interface utilisateur de GitHub est conçue pour être intuitive et conviviale
 
 - **Dashboard**: C'est la première page que tu vois lorsque tu te connecte à GitHub. Il affiche une vue d'ensemble des activités, des dépôts personnels, des dépôts que tu suis (stars), et plus encore.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/92b4af8d-7618-472c-b36b-54778a6220c8)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/0243d585-11e2-4773-8ea9-8911baaec3b6)
+
 
 
 - **Profil utilisateur**: Ton profil montre ta photo, ta biographie, et une liste de tes dépôts. Pour certains développeur, Github Agit comme un CV, il permet de montrer leurs projets.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/ef0b3953-7a74-4acf-aa9c-f84dfe82e5a5)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/3d966360-f618-4e6d-b032-962e585e49a3)
+
 
 
 - **Notifications**: tu pourras recevoir des notifications pour les activités liées à tes dépôts ou aux dépôts que tu suis, comme les issues et les pull requests.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/8430428c-ff29-409a-be79-6a607c0f5a01)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/baf521fe-257b-4b1b-9287-801dabc9c66c)
+
 
 
 - **Paramètres**: Dans les paramètres, tu peux configurer ton compte, gérer sa sécurité, tes clés SSH, et d'autres préférences.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/f41e146f-ee1f-4597-ab2a-0684f85ed5e6)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/195a3d76-0b82-44fb-b12e-981c122e723d)
+
 
 - **Bonus: Statistique**: tu pourras visionner, en bas de chaque compte Github, le taux de contribution de l'utilisateur, afin de voir si ceui-ci est actif ou non !
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/59d3eff8-49ad-4c1f-b6c2-194d51f65a67)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/ff374454-2f6c-4e64-80d7-857cc1137bd7)
+
 
 
 ---
@@ -77,36 +82,41 @@ L'interface utilisateur de GitHub est conçue pour être intuitive et conviviale
 
 Créer un nouveau dépôt sur GitHub est un processus simple:
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/18e69b59-79b8-47a6-baba-8a7f3cc58cb3)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/acbe601f-bf16-408a-a60a-94d2c96cec39)
+
 
 
 - **Choix du nom**: Choisisser un nom logique pour votre dépôt.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/be46e8e6-98b2-4a7e-b4db-f2e7fce92359)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/7cfba758-708f-44a2-abac-13bfa4042265)
 
   
 - **Description**: Ajouter une brève description pour aider les autres users à comprendre le but de votre dépôt.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/0495a8ae-f6a5-4a6f-aea0-5dcb0577c6d0)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/41626b1d-4ce3-4bd3-879e-d2ba1c9a5623)
 
   
 - **Visibilité**: Tu peux choisir de rendre votre dépôt public (visible par tout le monde) ou privé (visible uniquement par toi et les personnes que tu invite).
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/cff3d53b-12b7-4dc0-8265-5ef74e48f91f)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/8fb6fb09-32f0-4c81-94b4-3a36f254c8c5)
+
 
   
 - **Initialisation avec README**: Il est recommandé d'initialiser votre dépôt avec un fichier README pour fournir des informations sur ton projet. Il va s'agir d'un fichier afficher par défaut dès que quelqu'un cliquera sur votre dépôt, il peut s'agir d'une description plus poussé, et de tutoriels relatif au projet que tu partage.
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/ef790dca-0bff-4694-802a-2cd34875ee8e)
+ ![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/a9903a29-c6f0-4859-a000-33d9fa3899e8)
+
 
 - **Initialisation avec .gitignore**: Cela permettra d'exclure des fichiers inutiles pour l'utilisateur qui souhaite télécharger votre projet, si par exemple tu ne souhaite pas qu'il télécharge votre readme, il te suffira d'ajouter une exception pour l'exclure : `*.md`.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/7b8b4ec5-b432-4431-9547-36d0dfe2fed1)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/55efac0a-3855-40a2-b506-cb5208de7fc2)
+
 
 
 - **Initialisation avec Licence**: tu peux choisir de mettre une licence sur votre projet, afin d'autorisé ou non des choses que les utilisateurs pourraient faire avec votre code (cela permet de se proteger juridiquement).
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/516b4ede-179c-495c-8637-4af87ef685f0)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/dc66f39e-ab3b-46a4-87da-068dbbfecde5)
+
 
   
 ---
@@ -115,17 +125,20 @@ Créer un nouveau dépôt sur GitHub est un processus simple:
 
 - **Clonage d'un dépôt**: Le clonage permet de copier un dépot votre machine locale afin d'avoir le code disponible sans web. tu peux clonner de plusieurs manières en HTTPS, en SSH, en Github CLI, ou bien même avec le client lourd GithubDesktop, et enfin dans un fichier zippé.
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/8f87cdd7-df19-4c59-9b30-55089adfef80)
+  ![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/47fa7552-7331-485a-8204-77024ee352ce)
+
 
 
 - **Forking**: Le forking crée une copie personnelle d'un dépôt d'une autre personne. il est par exemple possible de prendre le projet d'un tiers, l'apporter dans ton dépot personnel, potentiellement apporté des modifications dessus, puis après pouvoir faire un commit afin de repousser tes modifications sur le projet de la personne tierce (qui acceptera ou non de le faire).
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/1eee7052-1767-43e5-8574-07d840e15996)
+  ![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/310333b3-9400-4a51-8d5d-f5806756b492)
+
 
 
 - **Gestion des branches**: Les branches permettent de travailler sur différentes fonctionnalités ou corrections sans affecter la branche principale (Nous appelons ça le *versionning*. Cela permet de créer des environnement de developpement afin de ne pas créer des débordements d'erreur, ainsi, il est possible de traiter ses actions *step by step* sans risquer de compromettre certaines partie de votre code.
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/9c7ff4ef-c435-4caa-bb55-93880371bb00)
+  ![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/01c43238-f71c-40b0-8c9b-e2ca84d1e42b)
+)
 
 ---
 
@@ -135,25 +148,30 @@ Créer un nouveau dépôt sur GitHub est un processus simple:
 
   
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/78b630b2-84c4-4d67-a1c4-f8df4164fb7a)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/345e75c7-25b7-4d5d-8320-604b8f54db2b)
+
 
 
 - **Assignation et labels**: Travaillant à plusieurs sur un projet, si je reçois des issues, je vais pouvoir désigner qui doit s'en occuper afin de répartir les taches, et je vais aussi pouvoir tagger mes issues, si il s'agit d'un bug, d'une duplication d'une demande d'aide ou autre.
 Par exemple, ci dessous, je vais attribuer l'issue à mon collègue Antoine en taggant celle-ci comme un bug, il recevra donc une notification et pourra commencer à travailler.
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/8fa681a2-c97c-4d0c-a09d-8cdf87cf5881)
+  ![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/ab08d9b9-62d4-4c59-bbb7-4ab80686efc1)
+
 
 
 - **Création d'une pull request**: Dans le cas ou j'ai terminé mon projet, mais que Antoine a travailler sur une nouvelle fonctionnalité, il avait créer une nouvelle branche, il a pu tester son code, il était donc fonctionnel, il demande maintenant a poussé sa nouvelle fonctionnalité en Production, il utilise pour cela un pull-request, il demande enfaite simplement de combiné son code à celui déja présent.
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/e28ea87c-2ed5-4c66-822e-7fe7b7fb98bc)
+  ![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/2e8c642d-b7b3-4725-ad20-703022dc337c)
+
 
 
 - **Review et merge de la pull request**: Une fois la pull request créée, les membres de moi-même ou Antoine peuvent la revoir, la commenter et, une fois approuvée, la fusionner avec la branche principale.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/aa915aaa-9616-42ec-aaaa-5c8505945606)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/b52d051d-5d8d-49c5-9741-f6e5434e9282)
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/af90a1d5-2bc3-4e19-8745-297c47a525eb)
+
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/44b47898-b238-464b-9b0c-1ad5f3de8571)
+
 
 ---
 
@@ -187,7 +205,8 @@ Avant de commencer à utiliser Git et GitHub via la ligne de commande, Il faut c
 
 - **`git clone [URL]`**: Permet de cloner (copier) un dépôt depuis GitHub vers votre machine locale. Tu te retrouvera donc avec les fichiers/Dossier du projet
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/1f72d959-6e1a-4a27-aa55-e1ce19737ca3)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/e993c571-6574-47f3-85b9-b4691b86b6d1)
+
 
 
 - **`git add [fichier]`**: Ajouter des fichiers à l'index pour les préparer pour le prochain commit.
@@ -249,12 +268,13 @@ Un bon message de commit va faciliter la compréhension de l'historique du proje
 
 - **Commencer par un verbe d'action** : Par exemple, "Creation la fonctionnalité X" ou "Isolement du bug Y".
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/619a2a9d-d9db-42be-9cca-8838373bfa92)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/6e898e49-64fb-42ac-9d4d-544c1bc69ffd)
+
 
   
 - **Limiter à 50 caractères pour le titre** : Si tu as besoin d'écrire plus de détails, privilégie le corps du message de commit. Fournis des informations supplémentaires sur ce que fait le commit et pourquoi.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/49a8f872-9f15-4504-95ca-f8506f3310dc)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/cffd248f-8780-46b1-9296-21a257b4cef3)
 
 
 ---
@@ -280,7 +300,8 @@ Les labels et les milestones aident à organiser et à prioriser le travail :
   
 - **Suivre l'avancement du projet** : Les milestones fournissent une vue d'ensemble de l'avancement vers un objectif particulier, tu as d'ailleur, sur Github, le mode projet qui va permettre d'avoir une vue d'ensemble sur l'avancement du projet, savoir qui doit faire quoi, ainsi que l'état d'avancement de ce dernier (tâche par tâche ou bien global au projet).
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/c5cb4094-5091-404d-a551-7b5a771f2902)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/589d1380-8ab9-4aa3-93c3-b6f8b250cbc9)
+
 
 
 ---
@@ -299,7 +320,8 @@ Les Bonnes pratiques sur GitHub :
 
 SSH est un protocole qui permet d'établir une communication sécurisée entre deux systèmes. Dans le contexte de GitHub, les clés SSH sont utilisées pour établir une connexion sécurisée entre votre ordinateur local et GitHub, sans avoir besoin de saisir votre mot de passe à chaque fois, dans le cas de notre projet, Nous avons par exemple un échange de clé entre le VM_NODE et le VM_MASTER, afin que le master puisse réalisé des actions sur le NODE sans avoir a tapper de mot de passe. our information, le port SSH est le 22 ! mais tu dois sûrement le savoir ahah !
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/c6e94d4f-e22a-4014-bfd5-c3e4e9fda5a0)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/61520354-99bb-4972-8c0c-e2680cf8dd49)
+
 
 
 **Avantages de l'utilisation des clés SSH** :
@@ -318,7 +340,8 @@ SSH est un protocole qui permet d'établir une communication sécurisée entre d
    ssh-keygen -t rsa -b 4096 -C "votre.email@example.com"
    ```
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/49262ba8-4e55-417b-910c-bddb242fd407)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/1160a87a-6e63-4fe0-91e3-2a30205881f7)
+
 
 
    
@@ -327,23 +350,28 @@ SSH est un protocole qui permet d'établir une communication sécurisée entre d
 **Ajout de la clé publique à GitHub** :
 1. Ouvre le fichier contenant la clé publique (généralement dans `~/.ssh/id_rsa.pub`) et copie son contenu (tu peux faire un `CAT` dessus).
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/ae10c6b0-c1bf-4544-b475-651daa3bf4d6)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/84d30cbe-534d-43b4-ab9f-441666dbb8af)
+
 
    
 3. Connecte-toi à ton compte GitHub et accède à **Settings** > **SSH and GPG keys**.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/8ecbd928-a459-47e8-b4a3-e85e36821b86)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/d8ebf155-bb19-47a8-bd99-3b407fb5d5d7)
+
 
    
 5. Clique sur **New SSH key**, donne un titre à votre clé (nom du pc par exemple) et colle le contenu de la clé publique dans le champ prévu à cet effet.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/f950e515-591f-4160-b64a-f66f89b2a314)
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/5c9ae7eb-219d-4896-83a9-43d4892ade04)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/fb4adc11-1f48-4697-a8a7-e7d72f611900)
+
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/8ab6d38f-def3-437f-aa35-2b757d69c3bf)
+
 
 
 6. Clique sur **Add SSH key** pour ajouter la clé à votre compte GitHub.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/0ac0e69d-19ac-4865-bffb-90daa3e0e367)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/1f5ce105-82a9-4c27-9e47-c157fafc57d1)
+
 
 
 ---
@@ -357,13 +385,15 @@ Une fois ta clé SSH ajoutée à GitHub, tu peux cloner des dépôts et pousser 
 git clone git@github.com:NomUtilisateur/NomDepot.git
 ```
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/e14fff04-b15e-4a2b-9c30-8571fd176159)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/24149d6f-b7b6-42d1-948d-d8a842443a01)
+
 
 
 **Push des modifications avec SSH** :
 Après avoir effectué des commits localement, tu peux pousser tes modifications vers GitHub en utilisant SSH. La commande reste la même (`git push`), mais la connexion est établie via SSH, plus besoin d'interface graphique !
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/f2e2a08d-f1af-4cbb-bb93-7fdafccca188)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/062f0e13-3e92-4617-b814-82aa60772de2)
+
 
 
 ---
@@ -385,20 +415,25 @@ Le processus de "forking" est une méthode très utilisé pour la contribution d
 **Étapes pour forker un dépôt et créer une pull request** :
 1. **Forker le dépôt** : Clique sur le bouton "Fork" en haut à droite de la page du dépôt que tu souhaite contribuer. Cela créera une copie du dépôt sur ton compte GitHub (je prend par exemple le projet de mon collègue Bochi auquel je souhaite apporter une modification.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/38246d3b-74b9-4dc6-9734-d5e9ab4d9f75)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/190a3bf3-4afc-4f26-b816-a23d826eff79)
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/3057d273-7d83-41fb-bf9c-b7162eab5b01)
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/3b780722-92d2-4fd9-bbea-7b5941b763b5)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/51162e49-5067-4509-a4c7-eaaae8167b04)
+
+
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/2a5747e3-c334-45ec-9b38-05a6ad570de6)
+
 
 et voilà, je me retrouve avec le projet de Bochi, sur mon compte github ! 
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/cbcb3836-e178-4838-98bd-c2cd616e4c1f)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/340c48f9-cd6b-47aa-8f07-78451797219f)
+
 
 
 3. **Clone ton fork** : Clone le dépôt forké sur ta machine locale pour y apporter des modifications, comme appris précédemment, je vais le cloner pour qu'il se retrouve en local sur mon poste avec la commande `git clone git@github.com:R-D-Y/NomDuProjet.git`.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/f13be424-7d8c-4e3c-a46c-89ef95f570c1)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/e269bb38-d0b0-4399-8f54-402f2ea269b8)
+
 
    
 5. **Apporte des modifications** : Une fois le projet en local, libre à toi d'apporter les options souhaités!
@@ -407,7 +442,8 @@ et voilà, je me retrouve avec le projet de Bochi, sur mon compte github !
    
 7. **Crée une pull request** : Retourne à la page du dépôt original et clique sur "New Pull Request". Sélectionne ton fork et la branche sur laquelle tu as travaillé, puis soumets la pull request !! 
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/509caa61-7e0e-4202-9a46-d283edc94ab7)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/f9fb5fda-f8dc-4b6c-b02e-d39e6b3c1b13)
+
 
 8. **Usage perso ??** : Et oui, après votre forks, si la modification que tu as apporter, est strictement personnel à ton infrastructure, et n'aura aucun plus pour les autres, tu n'est évidemment pas obligé de soumettre un pull request, cette dernière sert uniquement à contribué à un projet, afin de pousser tes modifications pour les autres :) .
 
@@ -420,11 +456,13 @@ Lorsque plusieurs personnes travaillent sur le même code, évidemment, des conf
 **Résolution des conflits** :
 1. Lorsqu'un conflit est détecté, GitHub t'informera dans la pull request.
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/ad2aae64-29c5-4d61-bd48-196326761871)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/7cfe3b2a-e22d-41a9-aa19-ae064cae1b2e)
+
 
 2. Ouvre les fichiers en conflit et recherche les marqueurs de conflit (`<<<<<<<`, `=======`, `>>>>>>>`).
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/681768d4-1ddc-4e53-80dd-16e91d3320e2)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/dadb3f7f-7733-40a0-96db-29fd0df48b70)
+
 
 3. Il suffit de Modifier le code pour résoudre le conflit, puis de supprimer les marqueurs de conflit.
 4. Enfin, Commit et pousse les modifications résolues et le tour est joué !
@@ -439,11 +477,13 @@ Les "code reviews" sont essentielles pour maintenir la qualité du code. Lorsqu'
 1. Examine le code soumis dans la pull request.
 2. Si tu as des suggestions ou des corrections, commente directement sur les lignes de code concernées, dans l'exemple ci-dessous, j'avais fais un petit TP sur Terraform, mon professeur, à la suite de ce TP, a examiner contribuer à mon projet (correctionnel), J'ai donc à mon tour, commenter sa proposition !
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/531ffa98-09b0-40bd-a2f7-957838d046f7)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/ced19b55-fbed-47ec-8945-9087deee6dc7)
+
 
 3. Si tout semble correct, tu peux approuver la pull request. Sinon, demande des modifications avant la fusion. Dans ce même exemple, je ne Mergerais pas la pull request car elle est inutile à mon projet
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/4d27136e-2851-49c6-9be2-79ac59fc2f02)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/53b9912a-bfe7-4c42-a72c-5a4b610d9a85)
+
 
 
 ---
@@ -464,7 +504,8 @@ Processus de forking, de création de pull requests, de gestion des conflits et 
 
 **GitHub Actions** est un outil d'automatisation clé en main qui permet de définir des workflows personnalisés pour créer une pipeline directement depuis votre dépôt GitHub. En d'autre terme, Github action permet de faire de la CI/CD...
 
- <a href="url"><img src="https://github.com/R-D-Y/ansible-awx-course/assets/102509252/4ed736b4-edb2-4115-b019-37033ae5e75a" height="45%" width="45%" ></a>
+ <a href="url"><img src="https://github.com/R-D-Y/public-ansible-awx/assets/102509252/5d10d2d4-26d2-4560-8f41-73aa8e52df54
+" height="45%" width="45%" ></a>
 
 - **CI (Intégration Continue)** : C'est le fait d'automatiser le processus de vérification de chaque modification apportée au code source (tu te souviens ? les merges ?), en exécutant un ensemble de tests pour s'assurer que le code est correct. Il va permmettre de valider le fait que la modification que tu as apporté n'impacte pas l'environnement de production !
 
@@ -480,7 +521,8 @@ Processus de forking, de création de pull requests, de gestion des conflits et 
 
 
 
- <a href="url"><img src="https://github.com/R-D-Y/ansible-awx-course/assets/102509252/54c4e68f-3fc3-45c4-86bc-e37499a7d857" height="30%" width="30%" ></a>
+ <a href="url"><img src="https://github.com/R-D-Y/public-ansible-awx/assets/102509252/ad5ede5e-f132-4ca1-bf6d-c998d52beb0b
+" height="30%" width="30%" ></a>
 
 
 
@@ -488,7 +530,8 @@ Processus de forking, de création de pull requests, de gestion des conflits et 
 
 - **Personnalisation des thèmes** : GitHub Pages supporte Jekyll, ce qui signifie que tu peux personnaliser l'apparence de ton site en choisissant parmi les thèmes disponibles ou en créant le vôtre, parfait si tu n'est pas un expert du front-end. (pour information Jekyll est un générateur de site statique! comme Wordpress!).
 
-  ![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/9e3b2935-54ed-4797-ad3f-cf4f03c68a25)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/31fc8183-eb3d-4202-9824-1816f7919ef9)
+
 
 - **Domaines personnalisés ? c'est possible!** : Tu peux évidemment ajouter ton propre nom de domaine à ton site *GitHub Pages* pour lui donner une adresse web professionnelle, oublie le github.TonPseudo.io ! tu pourra très facilement mettre ton nom.prenom par exemple...
 
@@ -498,7 +541,8 @@ Processus de forking, de création de pull requests, de gestion des conflits et 
 
 **GitHub Packages** C'est un service d'hébergement de packages qui te permet d'héberger tes packages de logiciels et de s'en servir comme des dépendances de ton projet ! (un peu comme un requirement.exe) > [ICI](https://github.com/features/packages)
 
-![image](https://github.com/R-D-Y/ansible-awx-course/assets/102509252/d0148b6c-63de-43da-9083-4aa8ebfe3c58)
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/fe253a99-3c8d-4ccb-a5d1-c453a9b71555)
+
 
 
 - **Partage de packages de code** : Tu peux héberger tes packages et les rendres disponibles dans tous les langages de programmation.
