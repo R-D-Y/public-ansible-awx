@@ -453,7 +453,8 @@ Les "code reviews" sont essentielles pour maintenir la qualité du code. Lorsqu'
 
 3. Si tout semble correct, tu peux approuver la pull request. Sinon, demande des modifications avant la fusion. Dans ce même exemple, je ne Mergerais pas la pull request car elle est inutile à mon projet
 
-ssssssssssssssssss > photo verte
+![image](https://github.com/R-D-Y/public-ansible-awx/assets/102509252/12899441-674d-408f-8144-0b2fc0c48078)
+
 
 ---
 
@@ -473,8 +474,7 @@ Processus de forking, de création de pull requests, de gestion des conflits et 
 
 **GitHub Actions** est un outil d'automatisation clé en main qui permet de définir des workflows personnalisés pour créer une pipeline directement depuis votre dépôt GitHub. En d'autre terme, Github action permet de faire de la CI/CD...
 
- <a href="url"><img src="https://github.com/R-D-Y/public-ansible-awx/assets/102509252/5d10d2d4-26d2-4560-8f41-73aa8e52df54
-" height="45%" width="45%" ></a>
+ <a href="url"><img src="https://github.com/R-D-Y/public-ansible-awx/assets/102509252/b434ee40-46d2-4b29-82ea-9c74314f6c14" height="45%" width="45%" ></a>
 
 - **CI (Intégration Continue)** : C'est le fait d'automatiser le processus de vérification de chaque modification apportée au code source (tu te souviens ? les merges ?), en exécutant un ensemble de tests pour s'assurer que le code est correct. Il va permmettre de valider le fait que la modification que tu as apporté n'impacte pas l'environnement de production !
 
@@ -490,10 +490,7 @@ Processus de forking, de création de pull requests, de gestion des conflits et 
 
 
 
- <a href="url"><img src="https://github.com/R-D-Y/public-ansible-awx/assets/102509252/ad5ede5e-f132-4ca1-bf6d-c998d52beb0b
-" height="30%" width="30%" ></a>
-
-
+ <a href="url"><img src="https://github.com/R-D-Y/public-ansible-awx/assets/102509252/e45335e1-22ad-4f95-864c-cc34ad74dc5b" height="30%" width="30%" ></a>
 
 
 
